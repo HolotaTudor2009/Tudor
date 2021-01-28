@@ -1,2 +1,2 @@
-# Tudor
+# Vote Manager
 Vote Manager
